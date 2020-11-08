@@ -1,7 +1,6 @@
 <html>
 <body>
 <div>
-![images (7)](https://user-images.githubusercontent.com/74009193/98461802-c6b45f80-21e1-11eb-8a29-6f082740383a.jpeg)
 
 
 <h1>Apa Itu Programmer? Inilah Ulasan Lengkapnya</h1>
