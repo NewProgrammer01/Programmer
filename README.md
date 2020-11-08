@@ -1,6 +1,6 @@
 <html>
 <body>
-![Programmer](https://user-images.githubusercontent.com/74009193/98467801-ea8b9b80-2209-11eb-9116-2e603b95f4d4.jpg)
+![](https://user-images.githubusercontent.com/74009193/98467801-ea8b9b80-2209-11eb-9116-2e603b95f4d4.jpg)
 
 <div>
 
